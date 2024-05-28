@@ -1,2 +1,2 @@
 # Nova-Voice-Assistant
-It's a project made by using python
+It's a voice assistant project made by using python.
